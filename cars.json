@@ -1,13 +1,6 @@
 {
   "cars": [
     {
-      "id": 2,
-      "brand": "Chevrolet",
-      "model": "Camaro",
-      "production_year": 1988,
-      "convertible": true
-    },
-    {
       "id": 3,
       "brand": "Aston Martin",
       "model": "Rapide",
@@ -33,7 +26,7 @@
       "brand": "Mercedes Benz",
       "model": "300SL",
       "production_year": 1967,
-      "convertible": true
+      "convertible": false
     },
     {
       "id": 7,
