@@ -34,6 +34,13 @@
       "model": "911",
       "production_year": 1963,
       "convertible": false
+    },
+    {
+      "id": 100,
+      "brand": "test",
+      "model": "test",
+      "production_year": 1920,
+      "convertible": true
     }
   ]
 }
